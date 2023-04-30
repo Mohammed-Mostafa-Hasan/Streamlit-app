@@ -3,5 +3,6 @@ A ML app to identify key customer features for British Airways flight booking an
 * British Airways: refers to the flag carrier airline of the United Kingdom and the second largest airline in the UK based on fleet size and passengers carried.
 - booking: means an act of reserving accommodation, travel, or a ticket in advance.
 ## How to install and run the project.
+- you can install the app easliy form this link []
 
 
